@@ -1,6 +1,4 @@
-# ML Project
-
-## 1. Project setup
+# 1. Project setup
 
 1. **Create a virtual environment:**
     ```bash
