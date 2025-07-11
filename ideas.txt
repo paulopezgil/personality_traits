@@ -1,0 +1,3 @@
+value counts per al bivariate analysis de columens categoriques
+xgboost, regressio logistica
+metrica roc auc, confusion matrix
